@@ -1,11 +1,11 @@
 # Site settings
 author: John Kundycki
-title: 
+title: John Kundycki
 header-img: img/home-bg.png
 email: johnkundycki92@gmail.com
 copyright_name: John Kundycki
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Aspiring Data Scientist
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jkundycki
