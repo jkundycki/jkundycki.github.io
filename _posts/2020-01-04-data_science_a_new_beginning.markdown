@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Data Science: A New Beginning"
-date:       2020-01-04 17:48:02 +0000
+date:       2020-01-04 12:48:03 -0500
 permalink:  data_science_a_new_beginning
 ---
 
