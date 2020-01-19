@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Project One: Finding Success in the Movie Industry"
-date:       2020-01-19 19:10:27 +0000
+date:       2020-01-19 14:10:28 -0500
 permalink:  project_one_finding_success_in_the_movie_industry
 ---
 
