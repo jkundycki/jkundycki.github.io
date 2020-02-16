@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Project Two: Predicting Real Estate Price"
-date:       2020-02-16 18:22:12 +0000
+date:       2020-02-16 13:22:13 -0500
 permalink:  project_two_predicting_real_estate_price
 ---
 
