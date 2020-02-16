@@ -16,12 +16,12 @@ Scrub: In data science, you're given a lot of data that has many strange values 
 
 Explore: This section has to do with getting familiar with the data and seeing what can be deduced from it. Here I asked questions that I thought were interesting about the data. For example, check out this cool map I made from the latitude and longitude data in terms of price:
 
-![](<a href="https://ibb.co/BfJ6RcD"><img src="https://i.ibb.co/7SDpFjc/king.jpg" alt="king" border="0"></a>)
+<a href="https://ibb.co/BfJ6RcD"><img src="https://i.ibb.co/7SDpFjc/king.jpg" alt="king" border="0"></a>
 
 I also dealt with something called multicolinearity in this section. In layman terms, when building a model, you cannot determine the target (in this case, price) using variables that are related to one another. So, in this instance, the best predictors of price needed to be picked while also not picking intercorrelated variables. 
 Below, you can see a heatmap that was made with Seaborn, which is very useful to check multicolinearity:
 
-![](<a href="https://imgbb.com/"><img src="https://i.ibb.co/KKqh9pp/heatmap.jpg" alt="heatmap" border="0"></a>)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/KKqh9pp/heatmap.jpg" alt="heatmap" border="0"></a>
 
 Model: This is the part where you build your model, validate that it's a "good" model, and then make some finishing touches.
 
