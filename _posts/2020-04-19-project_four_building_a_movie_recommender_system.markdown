@@ -5,7 +5,7 @@ date:       2020-04-19 18:21:11 -0400
 permalink:  project_four_building_a_movie_recommender_system
 ---
 
-<a href="https://ibb.co/jk2s1nn"><img src="https://i.ibb.co/TMSdF99/Netflix.png" alt="Netflix" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
+<a href="https://ibb.co/jk2s1nn"><img src="https://i.ibb.co/TMSdF99/Netflix.png" alt="Netflix" border="0"></a>
 
 For those of us constantly accessing the web, we are all too familiar with Recommender Systems. They are all around us and are either those pesky ads that are listening in on our conversations or a holy grail for new information or purchases. Love them or hate them, these recommender systems are widespread for a reason. These systems have played an integral part in the success of many large online businesses such as Amazon, Google and Spotify and are providing some of these companies up to 30% of their total revenue. 
 
@@ -15,7 +15,7 @@ The way the model works is by having users start by rating several films to "put
 
 To further challenge myself, I decided to try and modernize the rating system. For those familiar with Spotify, Netflix or any popular entertainment platform with a recommender system, you will know that these days, the thumbs up or thumbs down is the way to rate content. These platforms have moved to this system because it has greatly improved the accuracy of predictions for users. I modernized my recommender model by changing the ratings to either a 1 (thumbs up) or 0 (thumbs down). 
 
-<a href="https://ibb.co/LPz5MjC"><img src="https://i.ibb.co/ZJ6m34h/binary.jpg" alt="binary" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
+<a href="https://ibb.co/LPz5MjC"><img src="https://i.ibb.co/ZJ6m34h/binary.jpg" alt="binary" border="0"></a><br />
 
 The model could still use some tuning to become a better predictor and I would like to create a GUI so that anyone could interact with the model in an intuitive way and receive movie recommendations.
 
