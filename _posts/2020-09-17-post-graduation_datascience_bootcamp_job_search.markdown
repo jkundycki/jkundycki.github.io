@@ -10,31 +10,13 @@ With my job search declared, I am off on the journey of landing a first job in f
 
 For those reading this who might be in my situation or who will eventually be in my situation, I will impart my preliminary knowledge which you might find helpful during your job search. First, a trend I've noticed for job titles is that the majority of job titles that seem pertinent to a graduate of the Datascience program seem to be:
 
--Data Scientist
-
--Data Analyst
-
--Business Analyst
-
--Machine Learning Engineer
-
--Data Engineer
-
--Consultant (this one is vague)
+Data Scientist, Data Analyst, Business/Financial Analyst, Machine Learning Engineer, Data Engineer, Consultant (this one is vague)
 
 There are variations to these, but these seem to be the meat of the position titles to which the skills acquired during the Bootcamp match up to. Speaking of skills, in addition to practicing those learned during the program, I am working on acquiring new ones which might improve success of landing a job and making myself a more well rounded Data Scientist.
 
-Data Science skills that were not taught during the program but seem to be the most in-demand on the job listings are the following:
+Data Science skills that were not taught during the program but seem to be the most in-demand on the job listings are the following (in no particular order):
 
--R
-
--SAS
-
--AWS
-
--Tableau
-
--Hadoop
+R, SAS, AWS, Tableau, Hadoop
 
 If you can work on these skills or incorporate them into your capstone project, it will certainly give you an edge among your peers.
 
