@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Post-graduation Datascience Bootcamp Job Search "
-date:       2020-09-17 15:26:16 +0000
+date:       2020-09-17 11:26:17 -0400
 permalink:  post-graduation_datascience_bootcamp_job_search
 ---
 
